@@ -78,7 +78,7 @@ img{
 
 /* DEBUG */
 .debug .container {
-	border: 2px solid black;
+	/* border: 2px solid black; */
 }
 
 .debug .box{
@@ -86,12 +86,12 @@ img{
 }
 
 .debug .row {
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	padding: 20px;
 }
 
 .debug [class^='col'] {
-	border: 2px solid cornflowerblue;
+	/* border: 2px solid cornflowerblue; */
 	padding: 20px;
 	min-height: 20px;
 }
@@ -151,12 +151,12 @@ img{
 .debug .row-different{
     padding-top: 5px;
     padding-bottom: 20px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .debug .row-different-two{
     padding-top: 20px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     height: 100px;
     background-color: turquoise;
 }
