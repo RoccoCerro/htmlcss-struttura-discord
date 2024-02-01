@@ -20,13 +20,24 @@ img{
     flex-wrap: wrap;
 }
 
-
-
-
 /* STILI GENERALI */
 
 
 
 
 
+
 /* DEBUG */
+.debug .container {
+	border: 2px solid black;
+	padding: 20px;
+}
+
+.debug .box{
+    background-color: aqua;
+}
+
+.debug .row {
+	border: 2px solid red;
+	padding: 20px;
+}
