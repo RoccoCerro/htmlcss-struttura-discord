@@ -155,7 +155,6 @@ img{
 }
 
 .debug .row-different-two{
-    padding-top: 20px;
     /* border: 2px solid red; */
     height: 100px;
     background-color: turquoise;
@@ -167,4 +166,10 @@ img{
 
 .debug footer{
     background-color: gray;
+}
+
+.debug .lines-foot{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding-top: 10px;
 }
