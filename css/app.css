@@ -20,6 +20,14 @@ img{
     flex-wrap: wrap;
 }
 
+.col-50{
+    width: 50%;
+}
+
+.col-25{
+    width: 25%;
+}
+
 /* STILI GENERALI */
 
 
@@ -30,7 +38,6 @@ img{
 /* DEBUG */
 .debug .container {
 	border: 2px solid black;
-	padding: 20px;
 }
 
 .debug .box{
@@ -40,4 +47,22 @@ img{
 .debug .row {
 	border: 2px solid red;
 	padding: 20px;
+}
+
+.debug [class^='col'] {
+	border: 2px solid cornflowerblue;
+	padding: 20px;
+	min-height: 50px;
+}
+
+.debug .text-right{
+    text-align: right;
+}
+
+.debug .text-center{
+    text-align: center;
+}
+
+.one-col,.two-col,.three-col{
+    background-color: yellowgreen;
 }
