@@ -29,8 +29,15 @@ img{
 }
 
 /* STILI GENERALI */
+.second-box .row{
+    justify-content: center;
+}
 
-
+.second-box .col-100{
+    width: 500px;
+    height: 100px;
+    background-color: pink;
+}
 
 
 
@@ -65,4 +72,8 @@ img{
 
 .one-col,.two-col,.three-col{
     background-color: yellowgreen;
+}
+
+.second-box{
+    background-color: blue;
 }
