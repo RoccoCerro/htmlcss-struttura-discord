@@ -164,3 +164,7 @@ img{
 .debug .col-1{
     background-color: yellow;
 }
+
+.debug footer{
+    background-color: gray;
+}
