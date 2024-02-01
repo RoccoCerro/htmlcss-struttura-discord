@@ -71,9 +71,8 @@ img{
     flex-grow: 1;
 }
 
-.row-different-two{
+.justify-content-between{
     justify-content:space-between ;
-    align-items: center;
 }
 
 /* DEBUG */
